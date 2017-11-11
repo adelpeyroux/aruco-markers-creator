@@ -1,0 +1,25 @@
+{
+  "name": "aruco-markers-creator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adelpeyroux/aruco-markers-creator.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adelpeyroux/aruco-markers-creator/issues"
+  },
+  "homepage": "https://github.com/adelpeyroux/aruco-markers-creator#readme",
+  "dependencies": {
+    "aruco-marker": "^2.0.0",
+    "node-random": "^1.0.1",
+    "pdfkit": "^0.8.3",
+    "svg-to-pdfkit": "^0.1.3"
+  }
+}
